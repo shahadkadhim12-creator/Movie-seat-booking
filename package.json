@@ -1,0 +1,14 @@
+ {
+  "name": "movie-seat-booking",
+  "version": "1.0.0",
+  "description": "Movie seat booking app with JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch db.json --port 3000"
+  },
+  "author": "Ditt Namn",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0"
+  }
+}

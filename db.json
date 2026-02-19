@@ -1,0 +1,25 @@
+ {
+  "movies" [
+    {
+      "id": 1,
+      "Title": "The Lion King",
+      "Year": "2019",
+      "Price": 100,
+      "Poster": "https://..."
+    },
+    {
+      "id": 2,
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Price": 120,
+      "Poster": "https://..."
+    },
+    {
+      "id": 3,
+      "Title": "John Wick",
+      "Year": "2014",
+      "Price": 60,
+      "Poster": "https://..."
+    }
+  ]
+}
